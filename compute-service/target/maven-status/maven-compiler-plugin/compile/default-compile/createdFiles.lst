@@ -1,0 +1,6 @@
+com/cloud/compute/model/VM$VMMetadata.class
+com/cloud/compute/ComputeServiceApplication.class
+com/cloud/compute/model/VM.class
+com/cloud/compute/model/VM$NetworkConfig.class
+com/cloud/compute/model/VM$ResourceSpec.class
+com/cloud/compute/model/VM$VMState.class
